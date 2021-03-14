@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Siskon.DAL", "Siskon.DAL\Siskon.DAL.csproj", "{B061FF41-6834-40F0-9FD4-85B4FA9B1526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siskon.BLL", "Siskon.BLL\Siskon.BLL.csproj", "{EC02EB87-9625-488E-B045-4DB7939D6C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siskon.Api", "Siskon.Api\Siskon.Api.csproj", "{312BDEB8-257E-44C6-B3E1-5F00AF5FC314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B061FF41-6834-40F0-9FD4-85B4FA9B1526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B061FF41-6834-40F0-9FD4-85B4FA9B1526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B061FF41-6834-40F0-9FD4-85B4FA9B1526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B061FF41-6834-40F0-9FD4-85B4FA9B1526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC02EB87-9625-488E-B045-4DB7939D6C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC02EB87-9625-488E-B045-4DB7939D6C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC02EB87-9625-488E-B045-4DB7939D6C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC02EB87-9625-488E-B045-4DB7939D6C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312BDEB8-257E-44C6-B3E1-5F00AF5FC314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312BDEB8-257E-44C6-B3E1-5F00AF5FC314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312BDEB8-257E-44C6-B3E1-5F00AF5FC314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312BDEB8-257E-44C6-B3E1-5F00AF5FC314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10B434FF-280B-4023-A330-08359E4FA365}
+	EndGlobalSection
+EndGlobal
